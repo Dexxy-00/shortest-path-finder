@@ -1,5 +1,3 @@
-Author : Avyay Sood
-
 # Shortest Path Finder
 
 A console-based C++ program that calculates the shortest path between cities.
